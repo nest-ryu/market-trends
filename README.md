@@ -1,4 +1,4 @@
-# 📊 Market Trends — Streamlit Cloud (v2)
+# 📊 Market Trends — Streamlit Cloud 
 
 실시간 미국·한국 주식시장 대시보드입니다. (Streamlit Community Cloud 배포용)
 - 상승/하락 색상 표시
